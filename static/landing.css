@@ -1,0 +1,94 @@
+body {
+    color:#000;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    padding: 20vh;
+    color: #fbf7ef;
+    background-color: #0e161b;
+    width: 100%;
+    max-width: 100%;
+    height: 100vh;
+}
+.centered-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    margin-bottom: 5vh
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 200;
+    text-align: center;
+}
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+input.subscribe-form-input {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: transparent;
+    border-bottom-color: #fbf7ef;
+    border-radius: 0px;
+    padding-left: 1px;
+    color: #fbf7ef;
+    width: 300px;
+}
+.subscribe-form-input-wrapper{
+    margin-right: 1rem;
+}
+input.subscribe-form-input:focus{
+border-color:#c74538;
+outline:0
+}
+.subscribe-form-flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    flex-wrap: wrap;
+}
+input.submit-button {
+    background-color: #4e999b;
+    border-color: transparent;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+@media (max-width:584px){
+    .container {
+        padding-top: 7vh;
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding-bottom: 7vh;
+    }
+    h1,h4 {
+        text-align: center;
+    }
+    input.subscribe-form-input {
+        width: 80vw;
+    }
+}

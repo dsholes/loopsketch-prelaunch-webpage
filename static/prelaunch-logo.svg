@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.331074mm"
+   height="22.802252mm"
+   viewBox="0 0 49.331074 22.802252"
+   version="1.1"
+   id="svg1094"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="prelaunch-logo.svg">
+  <defs
+     id="defs1088" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="85.198048"
+     inkscape:cy="77.566828"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1252"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1091">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-113.67375,-139.0334)">
+    <rect
+       style="fill:none;stroke-width:0.164589"
+       id="rect1091-5"
+       width="49.331074"
+       height="22.802252"
+       x="113.67375"
+       y="139.0334" />
+    <g
+       id="g64-0-7-0-7-0-4-3-9"
+       transform="matrix(0.1070899,0,0,0.10900261,110.92429,122.51735)"
+       inkscape:export-filename="/Users/dsholes/Downloads/loopsketch_logo_main.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       style="fill:#c74538;fill-opacity:1">
+      <g
+         id="g46-6-48-4-9-9-70-8-1"
+         style="fill:#c74538;fill-opacity:1">
+        <path
+           d="M 451.229,188.098 C 432.682,169.967 407.95,160 381.585,160 c -26.363,0 -51.095,9.967 -69.642,28.098 l -42.229,41.187 13.649,13.447 42.229,-41.306 c 14.933,-14.529 34.764,-22.573 55.878,-22.573 21.113,0 40.946,8.044 55.878,22.573 30.797,30.139 30.797,79.13 0,109.148 -14.932,14.529 -34.765,22.573 -55.878,22.573 -21.114,0 -40.945,-8.044 -55.878,-22.573 L 200.071,188.098 C 181.406,169.967 156.675,160 130.427,160 104.064,160 79.332,169.967 60.784,188.098 41.615,206.809 32.021,231.441 32,256 c -0.021,24.611 9.573,49.149 28.784,67.902 18.548,18.13 43.279,28.098 69.643,28.098 26.365,0 51.095,-9.968 69.645,-28.098 l 42.111,-41.186 -13.647,-13.329 -42.229,41.187 c -14.932,14.529 -34.764,22.573 -55.879,22.573 -21.113,0 -40.944,-8.044 -55.876,-22.573 -30.799,-30.14 -30.799,-79.13 0,-109.148 14.932,-14.529 34.763,-22.573 55.876,-22.573 21.115,0 40.947,8.044 55.879,22.573 l 125.52,122.477 C 330.49,342.032 355.222,352 381.47,352 c 26.363,0 51.095,-9.968 69.643,-28.098 C 470.361,305.23 479.985,280.6 480,256 c 0.015,-24.601 -9.58,-49.17 -28.771,-67.902 z"
+           id="path44-2-04-8-5-2-4-0-7"
+           style="fill:#c74538;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
